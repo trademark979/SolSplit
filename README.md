@@ -13,7 +13,7 @@ Open **any two apps side-by-side** with one tap. Perfect for wallet + DEX, chart
 - Works in both portrait and landscape mode
 
 ### 📸 Screenshots
-*(Add 3-5 screenshots here once uploaded)*
+
 
 ### Installation
 1. Download the latest `app-release.apk` from the [Releases page](https://github.com/trademark979/SolSplit/releases)

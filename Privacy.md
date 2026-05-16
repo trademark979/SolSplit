@@ -2,7 +2,7 @@
 
 **Effective Date: May 16, 2026**
 
-**SolSplitter** (also known as **Sol Split**) is a simple split-screen launcher for Android devices, particularly optimized for the Solana Seeker.
+**SolSplitter** (also known as **SolSplit**) is a simple split-screen launcher for Android devices, particularly optimized for the Solana Seeker.
 
 ### 1. Information We Collect
 We collect **no personal information**.

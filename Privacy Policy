@@ -1,1 +1,25 @@
+Privacy PolicyEffective Date: May 16, 2026SolSplitter (also known as SolSplit) is a simple split-screen launcher for Android devices, particularly optimized for the Solana Seeker.
+
+1. Information We CollectWe collect no personal information.The app does not require accounts, login, or any user registration.
+All data (saved app pairs) is stored locally on your device only.
+We do not collect, store, or transmit any personal data, device identifiers, location, or usage analytics.
+
+2. PermissionsSolSplitter / SolSplit requires the following standard Android permissions:Query installed apps – To show you the list of apps you can launch.
+Launch other apps – To open apps in split-screen mode.
+
+No other permissions are requested.
+
+3. Data SharingWe do not share any data with third parties.
+The app does not contain any analytics, advertising, or tracking SDKs.
+
+4. Local StorageSaved app pairs are stored locally using Android’s SharedPreferences. You can clear this data anytime through your device settings.
+
+5. Children’s PrivacyThis app is not directed at children under 13 and does not knowingly collect data from children.
+
+6. Changes to This PolicyWe may update this Privacy Policy occasionally. Any changes will be posted in this repository.
+
+7. Contact Us
+If you have any questions about this Privacy Policy, please contact me via:GitHub Issues (preferred)
+Or reach out to me on X (@trademark979
+)
 

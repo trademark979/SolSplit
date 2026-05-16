@@ -1,24 +1,47 @@
-# SolSplit
-# SolSplitter
+# SolSplit AKA SolSplitter
 
 **Instant split-screen launcher for Solana Seeker**
 
-Open any two apps side-by-side with one tap. Save your favorite pairs (Wallet + DEX, Charts + Trading, etc.) and pin them to your home screen.
+Open **any two apps side-by-side** with one tap. Perfect for wallet + DEX, charts + trading, monitoring multiple dApps, and serious multitasking on your Solana Seeker.
 
-### Features
-- One-tap split screen for any two apps
-- Save and manage favorite pairs
-- Pin pairs directly to home screen
-- Clean Solana-themed design
-- Works on Solana Seeker and other Android devices
+### ✨ Features
+- One-tap split screen launching for any installed apps
+- Save your favorite app pairs (Wallet + Jupiter, Phantom + Tensor, etc.)
+- Pin saved pairs directly to your home screen for lightning-fast access
+- Clear visual feedback when selecting apps
+- Clean, modern Solana-themed dark interface
+- Works in both portrait and landscape mode
+
+### 📸 Screenshots
+*(Add 3-5 screenshots here once uploaded)*
 
 ### Installation
-Download the latest APK from [Releases](https://github.com/trademark979/SolSplit/releases) and install on your device.
+1. Download the latest `app-release.apk` from the [Releases page](https://github.com/trademark979/SolSplit/releases)
+2. Transfer the APK to your Solana Seeker
+3. Install the APK (enable "Unknown Sources" if prompted)
+4. Open SolSplitter and start splitting!
 
-### Privacy Policy
-[View Privacy Policy](PRIVACY.md)
+### Pro Tip
+For the best first-time experience, manually open both apps once before using split launch. After that, it works much more smoothly.
 
-### Terms of Use
-[View Terms of Use](TERMS.md)
+### Privacy & Terms
+- [Privacy Policy](PRIVACY.md)
+- [Terms of Use](TERMS.md)
 
-Made for the Solana ecosystem.
+### Tech Stack
+- Built with Kotlin + Jetpack Compose
+- Uses Android's native split-screen APIs
+- No tracking, no analytics, no data collection
+
+### Made for
+Solana Seeker users who want maximum productivity and multitasking power.
+
+---
+
+**Star this repo if you find it useful!** ⭐
+
+---
+
+**Contributions, feedback, and feature requests are welcome!**
+
+---
